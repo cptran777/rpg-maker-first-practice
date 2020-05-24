@@ -1,6 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Castle Town","order":1,"parentId":0,"scrollX":1197.4285714285713,"scrollY":823.7142857142857},
-{"id":2,"expanded":false,"name":"Normal Town","order":2,"parentId":0,"scrollX":1197.4285714285713,"scrollY":911.1428571428571},
-{"id":3,"expanded":false,"name":"Academy","order":3,"parentId":0,"scrollX":1211.142857142857,"scrollY":837.4285714285713}
+{"id":1,"expanded":false,"name":"Castle Town","order":1,"parentId":0,"scrollX":1513.7142857142856,"scrollY":1003.7142857142857},
+null,
+{"id":3,"expanded":false,"name":"Academy","order":2,"parentId":0,"scrollX":543,"scrollY":377.5},
+{"id":4,"expanded":false,"name":"Intro","order":3,"parentId":0,"scrollX":543,"scrollY":377.5}
 ]
